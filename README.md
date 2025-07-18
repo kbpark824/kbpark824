@@ -5,7 +5,7 @@
 
 # <div align="center">Hi! 👋 I'm KB, and I'm a full-time full-stack developer 👨‍💻</div>  
 
-<div align="center">
+<div text-align="center">
 🔭 I’m currently working on my first full-stack product  
   
 🌱 I’m currently learning Supabase  
