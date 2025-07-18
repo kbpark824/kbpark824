@@ -1,4 +1,5 @@
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+
 # 💫 About Me:
 ⚡ Fun fact I am a purple belt in Brazilian Jiu-jitsu
 
@@ -12,5 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kbpark824&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kbpark824&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbpark824&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
