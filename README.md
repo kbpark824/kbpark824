@@ -4,18 +4,16 @@
   
 
 # <div align="center">Hi! 👋 I'm KB, and I'm a full-time full-stack developer 👨‍💻</div>  
-  
 
-- 🔭 I’m currently working on my first full-stack product  
+<div align="center">
+🔭 I’m currently working on my first full-stack product  
   
-
-- 🌱 I’m currently learning Supabase  
+🌱 I’m currently learning Supabase  
   
-
-- ❓ Ask me about anything related to MERN and PERN stacks and related technologies  
+❓ Ask me about anything related to MERN and PERN stacks and related technologies  
   
-
-- ⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu  
+⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu  
+</div>
   
 
 <br/>  
