@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! 👋 I'm KB, and I'm a full-time full-stack developer 👨‍💻</div>  
+# <div align="center">Hi! 👋 I'm KB, and I'm a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on my first full-stack product  
@@ -97,12 +97,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kbpark824&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
