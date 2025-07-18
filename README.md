@@ -5,15 +5,15 @@
 
 # <div align="center">Hi! 👋 I'm KB, and I'm a full-time full-stack developer 👨‍💻</div>  
 
-<div text-align="center">
-🔭 I’m currently working on my first full-stack product  
+
+- 🔭 I’m currently working on my first full-stack product  
   
-🌱 I’m currently learning Supabase  
+- 🌱 I’m currently learning Supabase  
   
-❓ Ask me about anything related to MERN and PERN stacks and related technologies  
+- ❓ Ask me about anything related to MERN and PERN stacks and related technologies  
   
-⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu  
-</div>
+- ⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu  
+
   
 
 <br/>  
