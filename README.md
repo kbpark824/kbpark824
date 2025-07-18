@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-bnbne.nitrocdn.com/MisdSsilHsQtFeKrGtRuRHacZegjRZLm/assets/images/optimized/rev-9682f2f/arielleexecutive.com/wp-content/uploads/2016/04/urban-nyc-light.jpg)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <h1 align="center">Hello 👋, I'm KB Park</h1>
 <h3 align="center">A freshly minted full stack developer from NYC!</h3>
 
