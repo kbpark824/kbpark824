@@ -4,7 +4,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Mat Time - a trainging tracker for jiujitsu athletes<br>🌱 I’m currently learning PocketBase<br>❓ Ask me about anything related to MERN and PERN stacks and related technologies<br>⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu<br>
+🔭 I’m currently working on Mat Time - a training tracker for jiujitsu athletes<br>🌱 I’m currently learning PocketBase<br>❓ Ask me about anything related to MERN and PERN stacks and related technologies<br>⚡ Fun fact: I am a purple belt in Brazilian Jiujitsu<br>
 
 
 ## 🌐 Socials:
